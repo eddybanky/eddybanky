@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Edward  
-### MSc Artificial Intelligence | University of Essex | AI Practitioner
+### MSc Artificial Intelligence student | University of Essex | AI Practitioner
 
-Welcome to my e-portfolio. 
+Welcome to my Journey to MSc Artificial Intelligence portfolio. This repository contains my modules, assignments, notes, and project work.
 
 I am currently studying **MSc Artificial Intelligence**, developing strong skills in machine learning, intelligent systems, numerical modelling, and applied AI development.# My MSc Artificial Intelligence Portfolio
 
@@ -20,9 +20,9 @@ More than a collection of assignments, this portfolio reveals:
 
 My academic interests centre on the **intersection between formal AI models and real-world, imperfect data**. This portfolio is a working record of that journey: how clean algorithmic theory meets datasets that don't cooperate, and what practical strategies emerge from that collision.
 
-- 📫 How to reach me:edwardbankole14@yahoo.com
+- 📫 How to reach me: edwardbankole14@yahoo.com
 
   # Location
-  London United Kingdom- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  London
+  United Kingdom
+
