@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Edward  
-### MSc Artificial Intelligence student | University of Essex | AI Practitioner
+### MSc Artificial Intelligence student | University of Essex Online | AI Practitioner
 
 <img src="https://raw.githubusercontent.com/eddybanky/edwardbankole.github.io/main/image.png" alt="Portfolio Banner" width="100%">
 
