@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Edward  
 ### MSc Artificial Intelligence student | University of Essex | AI Practitioner
 
-Welcome to my Journey to MSc Artificial Intelligence portfolio. This repository contains my modules, assignments, notes, and project work.
+ My Journey to MSc Artificial Intelligence portfolio. This repository contains my modules, assignments, notes, and project work.
 
 I am currently studying **MSc Artificial Intelligence**, developing strong skills in machine learning, intelligent systems, numerical modelling, and applied AI development.# My MSc Artificial Intelligence Portfolio
 
